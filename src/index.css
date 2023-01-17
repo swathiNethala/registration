@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.jvxOpu {
+  position: relative;
+}
+
+.jvxOpu lasttexttime {
+  position: absolute;
+  right: 0;
+}
